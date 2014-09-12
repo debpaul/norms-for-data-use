@@ -1,15 +1,15 @@
-# Canadensys norms for data use and publication
+# VertNet Norms for Data Use and Publication
 
 ## Purpose
 
-[This repository](https://github.com/Canadensys/canadensys-norms) contains the *norms for data use and publication*, developed and used by [Canadensys](http://www.canadensys.net), a network of Canadian biological collections. The norms are published at <http://www.canadensys.net/norms>.
+[This repository](https://github.com/VertNet/norms-for-data-use) contains the norms for data use and publication for data publishers and data users of the VertNet network.  These norms were adapted from the [Canadensys](http://www.canadensys.net) Norms for data use and publication, <http://www.canadensys.net/norms>.
 
-These norms are not a legal document, but encourage (our) publishers and users to share and use data in a way that helps to build a vibrant community around the data and support future efforts to unlock biodiversity data.
+These norms are not a legal document. They are a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
 ## Fork us
 
-By hosting [these norms on Github in Markdown format](https://github.com/Canadensys/canadensys-norms/blob/master/norms.md), we can keep track of their revision history and hope to encourage others to fork and adapt them for their own needs. We'd love to see more communities working with open data and we hope these norms can help you to build those.
+By hosting [these norms on Github in Markdown format](https://github.com/VertNet/norms-for-data-use/blob/master/norms.md), we encourage others to fork and adap them for their own needs and we can keep track history of these revisions. Thus, we strongly encourage others, especially those working with open data, to use this document.
 
 ## License
 
-These norms are based on those of the [Europeana Foundation](http://www.europeana.eu/portal/pd-usage-guide.html) and [Open Data Commons](http://opendatacommons.org/norms/odc-by-sa/), and are published under the [CC-BY](http://creativecommons.org/licenses/by/3.0/) license.
+These norms are published under the [CC-BY](http://creativecommons.org/licenses/by/3.0/) license.
