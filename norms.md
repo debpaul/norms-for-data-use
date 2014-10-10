@@ -8,7 +8,7 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 
 * Biodiversity data should be as complete, discoverable, and accessible as possible.
 * Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
-* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication) cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected).
+* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected)).
 * Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
 * Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
 * The licensing and waiver process should be as simple as possible for data publishers and for users (results may vary from collection to collection).
