@@ -126,4 +126,4 @@ All the elements can be found in fields contained within downloaded records or i
 
 * [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
 
-** These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
+NOTE: These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
