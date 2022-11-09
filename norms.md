@@ -1,14 +1,14 @@
-# Norms for Data Use and Publication
+# Norms for Community, Data Use, and Publication
 
-This document describes the [VertNet](http://www.vertnet.org) norms for data publication and use. This is NOT a legal document or contract. This IS a well-considered code of conduct that anyone who publishes data to or uses data downloaded from VertNet are expected to uphold. When you adopt these norms, you will both model a much needed set of ethical behaviors and help us to build a vibrant community intended to support efforts to make biodiversity data as complete, discoverable, and accessible as possible.
+This document describes the [Species File Group]((https://speciesfilegroup.org/) norms for community, data publication, and use. The Species file Group wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](http://www.canadensys.net/about/norms) upon which this document is based and the derivative version by VertNet.
 
-VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their efforts to develop [the norms](http://www.canadensys.net/about/norms) upon which this document is based.
+These norms are not a legal document. They are a well-considered code of conduct that anyone who engages in our broader network are expected to uphold. Your participation might involve joining community meetings and events, using TaxonWorks software, using Species File Group powered services such as our Application Progamming Interfaces (APIs), using our TaxonPages software, publishing data to or using data downloaded from SFG-related projects. Your adoption of these norms as part of your individual and community standards-of-practice contributes to building an ethical, thriving, and evolving community. The intent is to support recognition of expertise, facilitating credit and attribution for work done, in concert with efforts to make biodiversity data as complete, discoverable, and accessible as possible.
 
 ## What We Believe
 
 * Biodiversity data should be as complete, discoverable, and accessible as possible.
 * Biodiversity data should be standardized so they can be aggregated, shared, and used as easily as possible.
-* Factual data in the VertNet Guide to Copyright and Licenses for Dataset Publication cannot be protected by copyright and should be committed to the Public Domain (see, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected)).
+* Factual data cannot be copyrighted (e.g. date collected, locality data, who collected a given object). Factual data should be committed to the Public Domain. See, [What Can be Protected by Copyright and Licensing](http://www.vertnet.org/resources/datalicensingguide.html#protected).
 * Any licenses used to protect compilations or datasets (when applicable) should be licensed using standardized, machine-readable licenses, such as licenses from the Creative Commons. The ideal is for all datasets be published under the designation of the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) waiver to affirm clearly that the data are in the public domain.
 * Data publishers have the right to protect any creative content, including, but not limited to images, sound files, videos, and descriptive/speculative text, where applicable.
 * The licensing and waiver process should be as simple as possible for data publishers and for users (results may vary from collection to collection).
@@ -19,48 +19,63 @@ VertNet wishes to acknowledge [Canadensys](http://www.canadensys.net/) for their
 
 ## Give Credit Where Credit is Due
 
-As is common practice in scientific research, cite the resources you are using. VertNet data publishers have invested considerable time, resources, and effort into collecting, digitizing, maintaining, and publishing the biodiversity information you are using. They deserve credit for their work. We have provided recommended formats for citation at the end of this document.
+As is common practice in scientific research, cite the resources you are using. Species File Group commmunity using our software and services and who then publish data have invested considerable time, resources, and effort into collecting, studying, digitizing, maintaining, and publishing the biodiversity information you are using. They / you deserve credit for this work. We have provided recommended formats for citation at the end of this document. [Cite SFG, Cite Software, Cite Products, Cite dataset/s, Cite a record, a map, etc.]
 
 ## Be Responsible
 
-Use the data responsibly. Data are published to VertNet and other biodiversity portals to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful, or misleading. Please understand that these data are subject to change, error, and bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate clearly any changes you may have made to the data.
+Use the data, software, and services responsibly. Data in TaxonWorks can be (and are) published to GBIF, Catalogue of Life, (and other biodiversity portals like Symbiota) to allow you and everyone else to better study and understand the world in which we live. It is your responsibility to use these data for the benefit of our collective health, knowledge, and self-improvement. Avoid using these data in any way that is unlawful, harmful, or misleading. Please understand that these data are subject to change, error, and bias. When giving credit where credit is due, protect the reputation of the data publisher and indicate clearly any changes you may have made to the data.
+
+This responsibility includes understanding expectations inherent in the difference between a **licence** and the expectation to **cite.** Even if a dataset might be **licensed** CC0 (i. e. Public Domain), you are expected to **cite** this dataset appropriately. A CC0 License makes data easier to use / share / remix. It **does not** mean it is okay to "forget" to cite the work and those in our communities who did the work. (See below for more about the **data license**).
 
 ## Share Knowledge
 
-Let VertNet data publishers and the broader community know if — and how — you have used data from the network. Sharing helps:
-* VertNet to understand value of this project to you and the community and to create better tools and services for your use.
-* Data publishers to showcase their efforts and encourages them to continue to improve data quality and maintenance of collections.
-* You and your work reach a wider audience through an expanded presence. (Yes, we publicize and celebrate the work that people do with data published through VertNet.)
-* Everyone - data publishers, bioinformatics projects, and researchers - to raise the money needed to keep the data, products, services, and research alive.
+Let Species File Group and TaxonWorks data publishers and the broader community know if — and how — you have used data from these networks. Sharing helps:
+* Species File Group to understand value of our project, software, and services to you and the community and to create better tools and services for your use.
+* TaxonWorks Projects data publishers to showcase their efforts and encourages them to continue to improve expertise-sharing, data quality, and maintenance of their biodiversity data.
+* You and your work reach a wider audience through an expanded presence. (Yes, we publicize and celebrate the work that people do with data published through the Species File Group suite and community.)
+* Everyone - data publishers, bioinformatics projects, collection managers, and researchers - to raise the money needed to keep the data, products, services, and research alive in a responsive and resourceful community.
 
-You can [contact us](http://www.vertnet.org/feedback/contact.html) or share your work with any member of the [VertNet team](http://www.vertnet.org/about/team.html) directly.
+You can [contact us](https://speciesfilegroup.org/about) or share your work with any member of the [SFG team](https://speciesfilegroup.org/about) directly.
 
-Communicate with the data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish. We've provided you with three ways to start a conversation:
-* Post an issue directly from the VertNet data portal. It's simple and we've posted instructions on [our blog](http://blog.vertnet.org/post/74297660841/issue-tracking-available-in-the-vertnet-portal-at).
-* Contact the data publisher directly using the contact information provided within each dataset published through VertNet via the [Publishers page](http://portal.vertnet.org/publishers) on the VertNet portal.
-* Use the [feedback form](http://www.vertnet.org/feedback/contact.html) provided at the top of every VertNet web page.
+Communicate with the TaxonWorks Project data publisher(s) directly. Let them know if you have comments or questions, notice errors, or want more information about the data they publish (e. g. using TaxonPages or their own custom software). Here are some ways to start a conversation:
+* Post an issue directly to GitHub from your TaxonWorks Project. Click "Issues" at the top of your Project user interface. See [Logging In](https://docs.taxonworks.org/guide/Manual/conventions.html#logging-in) for a screenshot of where to click.
+* Contact the data publisher directly using the contact information provided for anyone publishing using the TaxonPages software suite to share their TaxonWorks Project data. (See their "About" page).
+* Join us on any Wednesday, or send us a message anytime on gitter. You can also send our Community Liaison a direct email to dlpaul AT illinois DOT edu. See [SFG Events](https://speciesfilegroup.org/events.html) for details.
 
 ## Respect the Data License or Waiver
 
-Understand and respect the data license or waiver under which the data are published. Whenever possible, VertNet places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
+Understand and respect the **data license** or waiver under which the data are published. Whenever possible, TaxonWorks software places selected licenses and waivers in the *[rights](http://rs.tdwg.org/dwc/terms/index.htm#dcterms:rights)* field of every record and in the dataset metadata. In some cases, data publishers have published using non-standard terms of use.  These terms could be located in many possible locations in the dataset, so please review the data fully before you use it.
 
-To help data publishers make the best decision about how to license or waive rights to their datasets, and to help data users understand the waivers and licenses, we have created the [VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
+To help researchers, collection managers, data managers, and data publishers make the best decision about **how to license or waive rights** to their datasets, and to help data users understand the waivers and licenses, we suggest reading the [VertNet Guide to Copyright and Licenses for Dataset Publication](http://www.vertnet.org/resources/datalicensingguide.html).  Most of the data publishers who have selected a recommended Creative Commons license or waiver dedicated their data to the public domain using the [Creative Commons Zero waiver (CC0)](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Do not remove the public domain mark or provide misleading information about the copyright status.
 
 ## Data Publication Conditions
 
-We invite any institution with biological or natural history collections (not just vertebrate collections) to join our growing community of [data publishers](http://portal.vertnet.org/publishers).  To [publish data](http://www.vertnet.org/join/join.html) to the VertNet network you will need:
+We invite any researcher and / or institution with nomenclatural, biological, or natural history collections data to talk with us about joining our growing community of TaxonWorks Projects [data publishers](LIST HERE -- Pie Chart Graph?). Using these criteria [LINK TO DOCUMENTATION] we work together with you to figure out the best fit. For example, some options might be:
 
-* Digitized biological or natural history data.
+* Create your own instance of TaxonWorks on your own servers (even on your local computer)
+* Get a project in our Species File Group instance of TaxonWorks
+
+We assume you have:
+* Taxonomic related data, and perhaps natural history data associated with specimens.
+* A community of 2 or more people and a willingness to curate your data together, sharing expertise and growing your community.
 * The desire to share your data with scientists, researchers, educators, and others around the world.
 * A willingness to maintain and improve your data over time.
 
-If you have all three, or if you have questions, please contact [VertNet’s support team](http://www.vertnet.org/feedback/contact.html) and we’ll get you and your data started on the path to publication and discovery.
+If you have questions, please contact our Community Liaison via a direct email to dlpaul AT illinois DOT edu to get the conversation started.
 
 ## <a id="citations"></a>Preferred Citations
 
-In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through VertNet. Square brackets denote values that must be obtained either from records within a dataset or from the description of the dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
+Citing SFG
+[Citing TaxonWorks](https://docs.taxonworks.org/about/citing-taxonworks.html)
+Citing TaxonPages 
+Citing SFG Services
+
+In the absence of a citation practice that takes precedence, we recommend the following preferred formats to use when citing data published through [TaxonWorks](https://docs.taxonworks.org/about/citing-taxonworks.html). 
+
+FROM HERE DOWN NEEDS EDITING / DISCUSSION BECAUSE WE MAY WANT TO OFFER GUIDANCE ON CITING SFG / TaxonPages / Services (in addition to TaxonWorks).
+~~Square brackets denote values that must be obtained either from records within a dataset or from the description of the dataset. A glossary of terms used in square brackets is given at the end of the Preferred Citations section.
 
 ### Single dataset
 
@@ -124,6 +139,6 @@ All the elements can be found in fields contained within downloaded records or i
 
 * [data publisher]: This is listed as the Organisation in the dataset metadata and under Organisation on the Rights tab in the record detail in the VertNet portal. It is not in downloaded records.
 
-* [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.
+* [link to dataset]: in the field [dataSource] in the record. If dataSource is missing, use the Source URL on the Rights tab in the record detail in the VertNet portal.~~
 
-NOTE: These norms may be subject to minor revisions without notice; major revisions will be announced on the VertNet [web site](http://www.vertnet.org/), [data portal](http://www.vertnet.org/search), [blog](http://blog.vertnet.org/) and social media ([Twitter](https://twitter.com/vertnetorg), [Facebook](https://www.facebook.com/VertNet), and [Google Plus](https://plus.google.com/106668930991835907114/posts)).
+NOTE: These norms may be subject to minor revisions without notice; major revisions will be announced on the Species File Group [web site](https://speciesfilegroup.org), as well as other locations such as social media, gitter, and our blog.
